@@ -1,0 +1,24 @@
+# python
+*.pyc
+__pycache__/
+
+# credentials
+service-account-keys/
+*.json
+!requirements.txt
+key.json
+
+# reports
+*.docx
+*.pdf
+
+# data
+graph_data/
+pictures/
+
+# os
+.DS_Store
+
+# logs
+*.log
+client_output.txt
