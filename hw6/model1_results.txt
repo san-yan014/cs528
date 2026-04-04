@@ -1,0 +1,18 @@
+model 1: ip to country prediction (random forest)
+accuracy: 99.92%
+correct predictions: 2552/2554
+training samples: 10215
+test samples: 2554
+unique countries: 190
+
+sample predictions:
+  ✓ actual: united arab emirates (uae), predicted: united arab emirates (uae)
+  ✓ actual: burkina faso, predicted: burkina faso
+  ✓ actual: greece, predicted: greece
+  ✓ actual: togo, predicted: togo
+  ✓ actual: gabon, predicted: gabon
+  ✓ actual: ukraine, predicted: ukraine
+  ✓ actual: mauritius, predicted: mauritius
+  ✓ actual: belgium, predicted: belgium
+  ✓ actual: liberia, predicted: liberia
+  ✓ actual: mali, predicted: mali

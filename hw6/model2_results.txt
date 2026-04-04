@@ -1,0 +1,29 @@
+model 2: income prediction (random forest)
+features: gender, age, country
+accuracy: 62.89%
+correct predictions: 9252/14712
+training samples: 58846
+test samples: 14712
+unique income values: 11
+
+sample predictions:
+  ✗ actual: 20000, predicted: 10000
+  ✓ actual: 100000, predicted: 100000
+  ✓ actual: 40000, predicted: 40000
+  ✓ actual: 60000, predicted: 60000
+  ✗ actual: 20000, predicted: 60000
+  ✓ actual: 150000, predicted: 150000
+  ✓ actual: 150000, predicted: 150000
+  ✗ actual: 40000, predicted: 60000
+  ✓ actual: 20000, predicted: 20000
+  ✗ actual: 60000, predicted: 40000
+  ✓ actual: 10000, predicted: 10000
+  ✓ actual: 150000, predicted: 150000
+  ✗ actual: 40000, predicted: 20000
+  ✓ actual: 20000, predicted: 20000
+  ✗ actual: 60000, predicted: 40000
+  ✓ actual: 150000, predicted: 150000
+  ✓ actual: 20000, predicted: 20000
+  ✓ actual: 60000, predicted: 60000
+  ✗ actual: 100000, predicted: 60000
+  ✓ actual: 40000, predicted: 40000
