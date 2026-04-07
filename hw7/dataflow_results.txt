@@ -1,0 +1,18 @@
+=== Top 5 Outgoing Links ===
+  page_9260: 375
+  page_8070: 375
+  page_9769: 375
+  page_8509: 375
+  page_8476: 375
+=== Top 5 Incoming Links ===
+  page_19768: 242
+  page_6990: 242
+  page_17702: 239
+  page_1009: 237
+  page_10277: 236
+=== Top 5 Word Bigrams ===
+  'page_17549 page_12850': 3
+  'page_17654 page_6471': 3
+  'page_15673 page_4902': 3
+  'page_10757 page_8425': 3
+  'page_12947 page_13686': 3

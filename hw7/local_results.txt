@@ -1,0 +1,36 @@
+(beam-env) sanyan@crc-dot1x-nat-10-239-19-75 hw7 % python hw7_local.py 
+Listing files...
+Found 20000 files
+  processed 2000 files...
+  processed 4000 files...
+  processed 6000 files...
+  processed 8000 files...
+  processed 10000 files...
+  processed 12000 files...
+  processed 14000 files...
+  processed 16000 files...
+  processed 18000 files...
+  processed 20000 files...
+
+=== Top 5 Outgoing Links ===
+  page_10056: 375
+  page_10394: 375
+  page_10480: 375
+  page_10780: 375
+  page_11324: 375
+
+=== Top 5 Incoming Links ===
+  page_19768: 242
+  page_6990: 242
+  page_17702: 239
+  page_1009: 237
+  page_10277: 236
+
+=== Top 5 Word Bigrams ===
+  'page_11587 page_2843': 3
+  'page_12301 page_4646': 3
+  'page_6127 page_10862': 3
+  'page_18462 page_12384': 3
+  'page_6087 page_4703': 3
+
+Local run time: 2950.91s
